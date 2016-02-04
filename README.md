@@ -1,3 +1,0 @@
-# angularjs
-angular project
-fdhdf
